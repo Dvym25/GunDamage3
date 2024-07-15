@@ -26,3 +26,11 @@
 
 ![UI](https://github.com/user-attachments/assets/8b2a05ce-36d9-4fe1-948c-01850ca680e5)
 
+### 2. Two Spinners 
+
+![Spinner1](https://github.com/user-attachments/assets/90fd4f96-47a1-4b68-bdae-34d87235ed14)
+![Spinner2](https://github.com/user-attachments/assets/f22a04cd-7117-4eb0-a6cd-61320b9a25b2)
+
+
+
+
