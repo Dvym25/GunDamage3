@@ -23,4 +23,6 @@
 
 ## Screenshots
 ### 1. User Interface 
-![image](https://github.com/user-attachments/assets/21ac8c7b-ccd0-44a7-b8ff-970fef2de738)
+
+![UI](https://github.com/user-attachments/assets/8b2a05ce-36d9-4fe1-948c-01850ca680e5)
+
