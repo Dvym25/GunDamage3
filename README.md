@@ -53,6 +53,16 @@
 ![Spinner1](https://github.com/user-attachments/assets/90fd4f96-47a1-4b68-bdae-34d87235ed14)
 ![Spinner2](https://github.com/user-attachments/assets/f22a04cd-7117-4eb0-a6cd-61320b9a25b2)
 
+### 3. Using Button to get final gun damage output 
+
+![Opretor](https://github.com/user-attachments/assets/e31da7ee-046c-45bb-9111-61bd14149123). 
+
+
+## Thank You 
+## Divyam Harish Patel
+## 1229740
+
+
 
 
 
