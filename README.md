@@ -55,7 +55,7 @@
 
 ### 3. Using Button to get final gun damage output 
 
-![Opretor](https://github.com/user-attachments/assets/e31da7ee-046c-45bb-9111-61bd14149123). 
+![Opretor](https://github.com/user-attachments/assets/e31da7ee-046c-45bb-9111-61bd14149123) 
 
 
 ## Thank You 
