@@ -20,3 +20,7 @@
 ### 1. Select Category: Choose a weapon category (e.g., Side Arms, SMGs).
 ### 2. Select Gun: Choose a specific gun within the selected category.
 ### 3. View Damage: Click the "Find Damage" button to display the damage information.
+
+## Screenshots
+### 1. User Interface 
+![image](https://github.com/user-attachments/assets/21ac8c7b-ccd0-44a7-b8ff-970fef2de738)
