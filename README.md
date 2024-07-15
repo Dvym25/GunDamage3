@@ -11,10 +11,32 @@
 ### 5. Sniper Rifles 
 ### 6. Machine Guns
 
+## Gun Categories and Guns
+### Side Arms
+#### 1. Classic , 2. Sheriff , 3. Shorty , 4. Frenzy , 5. Ghost
+
+### SMGs
+#### 1. Stinger , 2. Spectre
+ 
+### Shotguns
+#### 1. Bucky , 2. Judge
+
+### Rifles 
+#### 1. Phantom , 2. Bulldog , 3. Guardian
+
+### Sniper Rifles
+#### 1. Marshal , 2. Outlaw , 3. Operator
+
+### Machine Guns
+#### 1. Ares , 2. Odin
+
+
 ### Detailed Damage Info:
 ### 1. Head shot damage
 ### 2. Body shot damage
 ### 3. leg shot damage
+
+
 
 ## How to Use
 ### 1. Select Category: Choose a weapon category (e.g., Side Arms, SMGs).
