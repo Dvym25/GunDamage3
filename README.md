@@ -4,7 +4,7 @@
 
 ## Features
 ### Gun Categories: Choose from 
-### 1. Side Arms 
+    ### 1. Side Arms 
 ### 2. SMGs
 ### 3. Shotguns
 ### 4. Rifles
